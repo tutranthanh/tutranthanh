@@ -15,6 +15,7 @@
             <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
             <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
             <li><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></li>
+		<h1> ga ran </h1>
 		<img scr ="https://vn.pikbest.com/backgrounds/seen-fried-chicken-is-on-a-plate_9435741.html" alt="ga ran">
             <li><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></li>
 	    <table border="1">
