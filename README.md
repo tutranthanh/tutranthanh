@@ -14,7 +14,8 @@
             <li><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></li>  
             <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
             <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
-            <li><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></li> <img scr ="images/images.jfif">
+            <li><strong>Gà Rán Giòn Tan</strong><img scr ="images/images.jfif"> <span>25,000 VNĐ</span></li> 
+		
 	
             <li><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></li>
 	    <table border="1">
