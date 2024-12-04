@@ -2,29 +2,25 @@
 <!DOCTYPE html>  
 <html>  
 <head>  
-    <title>Quán Ăn Vặt Ngon</title>  
+    <title> Tran Thanh Tu </title>  
 <head>
 <body>  
     <div>  
-        <h1>Quán Ăn Vặt Ngon</h1>  
+        <h1> Tran Thanh Tu</h1>  
     </div>  
     <main>  
-        <h2>Các món ăn vặt</h2>  
+        <h2>Thong tin:</h2>  
         <ul>  
-            <li><strong>Bánh Mì Que</strong> <span>10,000 VNĐ</span></li>  
-            <li><strong>Khoai Tây Chiên</strong> <span>15,000 VNĐ</span></li>  
-            <li><strong>Xúc Xích Nướng</strong> <span>20,000 VNĐ</span></li>  
-            <li><strong>Gà Rán Giòn Tan</strong> <span>25,000 VNĐ</span></li>
-		<h1> ga ran </h1>
-		<img scr ="https://vn.pikbest.com/backgrounds/seen-fried-chicken-is-on-a-plate_9435741.html" alt="ga ran">
-            <li><strong>Trà Sữa Trân Châu</strong> <span>18,000 VNĐ</span></li>
-	    <table border="1">
-		    <tr><th rowspan="2"> Lượt tích điểm </th> <th colspan="3"> Điểm tích</th></tr>
-		    <tr><td>Lượt 1</td> <td>Lượt 2</td> <td>Lượt 3</td></tr>
-	    </table>
-	<li><strong>Mọi thắc mắc xin vui lòng liên hệ:</strong></li>
-	<p><a href="https://www.facebook.com/xuanmai.tranngoc.739?mibextid=LQQJ4d"> Facebook chị chủ</a></p>
+            <li><strong>Ten:</strong> <span>Tran Thanh Tu</span></li>  
+            <li><strong>Lop:</strong> <span>12L</span></li>  
+            <li><strong>Ngay sinh:</strong> <span>10/12/2007</span></li>  
+            <li><strong>Chieu cao:</strong> <span>167cm</span></li>
+	    <li><strong>Can nang:</strong> <span>63kg</span></li>
+
+<li><strong>Mọi thắc mắc xin vui lòng liên hệ:</strong></li>
+  <p><a href="https://www.facebook.com/profile.php?id=100073908186060&mibextid=ZbWKwL"> Facebook cua Tu</a></p> 
         </ul>  
     </main>  
 </body>  
 </html>
+
